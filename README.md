@@ -85,9 +85,3 @@ username:hashedPassword:role
 
 ---
 
-## 📌 Future Improvements
-
-- Migrate to a database (e.g., SQLite or MySQL)
-- Add password reset feature
-- Implement 2FA (Two-Factor Authentication)
-- Improve UI design with JavaFX or web interface
