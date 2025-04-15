@@ -1,0 +1,6 @@
+// Allow access to google scholar
+grant {
+	permission java.net.SocketPermission "scholar.google.com",
+"	connect,resolve";
+};
+// Deny access to facebook by not granting it permissions
